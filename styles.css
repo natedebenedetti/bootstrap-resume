@@ -1,0 +1,12 @@
+.small {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.smaller {
+    font-size: 14px;
+}
+
+.smallest {
+    font-size: 12px;
+}
